@@ -1,0 +1,11 @@
+const newFunc = () => {
+
+}
+
+const = () => {
+
+}
+
+const = () => {
+
+}

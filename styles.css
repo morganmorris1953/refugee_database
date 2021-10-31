@@ -1,0 +1,67 @@
+/* .container {
+        width: 200px;
+        display: flex;
+        flex-direction: column;
+    } */
+
+
+/* justify-content: space-between;
+
+
+/* align-content: left; */
+
+
+/* align-items: flex-start; */
+
+
+/* } */
+
+
+/* .card {
+        animation-name: flip-horizontal-bottom;
+        animation-duration: 0.5s;
+    } */
+
+
+/* .carousel-inner {
+        width: 400px;
+        height: 300px;
+    }
+    
+    .carousel-item {
+        width: 400px;
+        height: 300px;
+    }
+    
+    .dickbutt {
+        width: 300px;
+    } */
+
+
+/* .carousel-item img {
+        max-height: 500px;
+        /* input your desired height here */
+
+
+/* }
+*/
+
+
+/* .carousel {
+    height: 360px;
+} */
+
+
+/* .carousel-inner {&gt;} 
+.item {&gt; } */
+
+
+/* .carousel img {
+    height: 360px;
+    object-fit: contain;
+    margin: auto
+} */
+
+.carousel-inner>.item>img {
+    margin: 0 auto;
+}
